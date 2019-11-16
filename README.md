@@ -5,7 +5,7 @@ IPFinder application using Java Swing and Java Networking.
 Developed using Netbeans IDE 7.3.1 so the source code is inside src/ipfinder/IPFinder.java
 and the JAR file is inside dist/IPFinder.jar
 
-========================
+
 BUILD OUTPUT DESCRIPTION
 ========================
 
